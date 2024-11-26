@@ -1,6 +1,7 @@
 *.exe
 *.json
 test.cpp
+.DS_Store
 
 /.vscode
 /.cph
